@@ -7,3 +7,4 @@ bugs fixed and changes applied
 
 hotfix added
 feature added
+release added

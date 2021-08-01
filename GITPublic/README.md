@@ -9,4 +9,5 @@ hotfix added
 feature added
 release added
 
+Feature A changes
 feature b changes
